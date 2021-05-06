@@ -2259,3 +2259,501 @@
 2021-05-05 19:09:21,924 :ERROR : validation :Wind does not match  but minimum difference is more than 3
 2021-05-05 19:09:21,924 :ERROR : validation :Wind does not match  but minimum difference is more than 3
 2021-05-05 19:09:21,924 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:00,843 :INFO : test_one : Welcome to Weather.com
+2021-05-06 18:32:11,895 :INFO : test_one :Search City: Delhi
+2021-05-06 18:32:11,895 :INFO : test_one :----------Delhi----------
+2021-05-06 18:32:18,371 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:18,371 :INFO : test_one :Temperature by Web: 27
+2021-05-06 18:32:18,474 :INFO : test_one :wind from web: 8.0
+2021-05-06 18:32:18,766 :INFO : test_one :Pressure from web: 1004.4
+2021-05-06 18:32:18,766 :INFO : test_one :Humidity from web: 63.0
+2021-05-06 18:32:18,766 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:20,467 :INFO : test_one :Temperature by API: 24.57
+2021-05-06 18:32:20,467 :INFO : test_one :Pressure by API: 1002
+2021-05-06 18:32:20,468 :INFO : test_one :Humidity by API: 18
+2021-05-06 18:32:20,468 :INFO : test_one :Wind by API: 3.82
+2021-05-06 18:32:20,470 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:32:20,647 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:20,664 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:20,664 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:20,684 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:20,684 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:20,684 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:20,696 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:20,696 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:20,696 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:20,696 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:22,656 :INFO : test_one :Search City: Chandigarh
+2021-05-06 18:32:22,656 :INFO : test_one :----------Chandigarh----------
+2021-05-06 18:32:30,155 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:30,155 :INFO : test_one :Temperature by Web: 31
+2021-05-06 18:32:30,562 :INFO : test_one :wind from web: 0.0
+2021-05-06 18:32:30,563 :INFO : test_one :Pressure from web: 1006.4
+2021-05-06 18:32:30,563 :INFO : test_one :Humidity from web: 49.0
+2021-05-06 18:32:30,563 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:30,816 :INFO : test_one :Temperature by API: 32.8
+2021-05-06 18:32:30,816 :INFO : test_one :Pressure by API: 1004
+2021-05-06 18:32:30,817 :INFO : test_one :Humidity by API: 24
+2021-05-06 18:32:30,817 :INFO : test_one :Wind by API: 4.19
+2021-05-06 18:32:30,817 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:32:30,826 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,826 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,826 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,826 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,826 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,838 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,838 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,838 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,838 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,838 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,838 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,847 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:30,856 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:34,786 :INFO : test_one :Search City: Indore
+2021-05-06 18:32:34,786 :INFO : test_one :----------Indore----------
+2021-05-06 18:32:40,681 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:40,681 :INFO : test_one :Temperature by Web: 34
+2021-05-06 18:32:41,036 :INFO : test_one :wind from web: 6.0
+2021-05-06 18:32:41,036 :INFO : test_one :Pressure from web: 1004.7
+2021-05-06 18:32:41,036 :INFO : test_one :Humidity from web: 23.0
+2021-05-06 18:32:41,037 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:41,305 :INFO : test_one :Temperature by API: 36.56
+2021-05-06 18:32:41,305 :INFO : test_one :Pressure by API: 1004
+2021-05-06 18:32:41,306 :INFO : test_one :Humidity by API: 17
+2021-05-06 18:32:41,307 :INFO : test_one :Wind by API: 5.76
+2021-05-06 18:32:41,307 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,324 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,338 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,352 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:41,384 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:32:45,361 :INFO : test_one :Search City: Mumbai
+2021-05-06 18:32:45,361 :INFO : test_one :----------Mumbai----------
+2021-05-06 18:32:51,189 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:51,190 :INFO : test_one :Temperature by Web: 31
+2021-05-06 18:32:51,553 :INFO : test_one :wind from web: 8.0
+2021-05-06 18:32:51,553 :INFO : test_one :Pressure from web: 1006.4
+2021-05-06 18:32:51,553 :INFO : test_one :Humidity from web: 76.0
+2021-05-06 18:32:51,554 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:51,831 :INFO : test_one :Temperature by API: 30.94
+2021-05-06 18:32:51,831 :INFO : test_one :Pressure by API: 1006
+2021-05-06 18:32:51,831 :INFO : test_one :Humidity by API: 74
+2021-05-06 18:32:51,831 :INFO : test_one :Wind by API: 4.63
+2021-05-06 18:32:51,831 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,838 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,847 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,855 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:51,865 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:32:55,092 :INFO : test_one :Search City: Kolkata
+2021-05-06 18:32:55,092 :INFO : test_one :----------Kolkata----------
+2021-05-06 18:32:59,671 :INFO : test_one :-----------------------------------
+2021-05-06 18:32:59,671 :INFO : test_one :Temperature by Web: 31
+2021-05-06 18:33:00,033 :INFO : test_one :wind from web: 3.0
+2021-05-06 18:33:00,033 :INFO : test_one :Pressure from web: 1007.1
+2021-05-06 18:33:00,033 :INFO : test_one :Humidity from web: 66.0
+2021-05-06 18:33:00,034 :INFO : test_one :-----------------------------------
+2021-05-06 18:33:00,269 :INFO : test_one :Temperature by API: 30.94
+2021-05-06 18:33:00,269 :INFO : test_one :Pressure by API: 1006
+2021-05-06 18:33:00,269 :INFO : test_one :Humidity by API: 53
+2021-05-06 18:33:00,269 :INFO : test_one :Wind by API: 7.13
+2021-05-06 18:33:00,269 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,279 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,293 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,305 :ERROR : validation :Humidity does not match  but minimum difference is more than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:00,319 :INFO : validation :Wind does not match  but minimum difference is less than 3
+2021-05-06 18:33:03,793 :INFO : test_one :Search City: New york
+2021-05-06 18:33:03,793 :INFO : test_one :----------New york----------
+2021-05-06 18:33:10,749 :INFO : test_one :-----------------------------------
+2021-05-06 18:33:10,749 :INFO : test_one :Temperature by Web: 13
+2021-05-06 18:33:11,080 :INFO : test_one :wind from web: 10.0
+2021-05-06 18:33:11,080 :INFO : test_one :Pressure from web: 1014.9
+2021-05-06 18:33:11,080 :INFO : test_one :Humidity from web: 52.0
+2021-05-06 18:33:11,081 :INFO : test_one :-----------------------------------
+2021-05-06 18:33:11,343 :INFO : test_one :Temperature by API: 12.02
+2021-05-06 18:33:11,344 :INFO : test_one :Pressure by API: 1014
+2021-05-06 18:33:11,344 :INFO : test_one :Humidity by API: 59
+2021-05-06 18:33:11,344 :INFO : test_one :Wind by API: 0
+2021-05-06 18:33:11,344 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,359 :INFO : validation :Temperature does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,369 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,386 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:11,399 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:14,653 :INFO : test_one :Search City: Texas
+2021-05-06 18:33:14,653 :INFO : test_one :----------Texas----------
+2021-05-06 18:33:20,390 :INFO : test_one :-----------------------------------
+2021-05-06 18:33:20,391 :INFO : test_one :Temperature by Web: 21
+2021-05-06 18:33:20,485 :INFO : test_one :wind from web: 23.0
+2021-05-06 18:33:20,485 :INFO : test_one :Pressure from web: 1021.3
+2021-05-06 18:33:20,485 :INFO : test_one :Humidity from web: 75.0
+2021-05-06 18:33:20,486 :INFO : test_one :-----------------------------------
+2021-05-06 18:33:20,737 :INFO : test_one :Temperature by API: 9.48
+2021-05-06 18:33:20,738 :INFO : test_one :Pressure by API: 1024
+2021-05-06 18:33:20,738 :INFO : test_one :Humidity by API: 87
+2021-05-06 18:33:20,739 :INFO : test_one :Wind by API: 3.48
+2021-05-06 18:33:20,739 :INFO : test_one :--------------- Validation --------------------
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,753 :ERROR : validation :Temperature does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,772 :INFO : validation :Pressure does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,787 :INFO : validation :Humidity does not match  but minimum difference is less than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3
+2021-05-06 18:33:20,800 :ERROR : validation :Wind does not match  but minimum difference is more than 3

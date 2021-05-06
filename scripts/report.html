@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 05-May-2021 at 19:09:26 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 06-May-2021 at 18:33:21 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -259,7 +259,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Python</td>
         <td>3.9.4</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 94.19 seconds. </p>
+    <p>1 tests ran in 106.12 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -275,7 +275,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">Demo.py::Test::test_one</td>
-          <td class="col-duration">92.62</td>
+          <td class="col-duration">105.02</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -283,15 +283,15 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 INFO     test_one:Demo.py:23 Search City: Delhi
 INFO     test_one:Demo.py:24 ----------Delhi----------
 INFO     test_one:Demo.py:31 -----------------------------------
-INFO     test_one:Demo.py:32 Temperature by Web: 35
-INFO     test_one:Demo.py:39 wind from web: 10.0
-INFO     test_one:Demo.py:40 Pressure from web: 1002.4
-INFO     test_one:Demo.py:41 Humidity from web: 28.0
+INFO     test_one:Demo.py:32 Temperature by Web: 27
+INFO     test_one:Demo.py:39 wind from web: 8.0
+INFO     test_one:Demo.py:40 Pressure from web: 1004.4
+INFO     test_one:Demo.py:41 Humidity from web: 63.0
 INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 35.52
-INFO     test_one:Demo.py:61 Pressure by API: 1004
-INFO     test_one:Demo.py:62 Humidity by API: 23
-INFO     test_one:Demo.py:63 Wind by API: 3.6
+INFO     test_one:Demo.py:60 Temperature by API: 24.57
+INFO     test_one:Demo.py:61 Pressure by API: 1002
+INFO     test_one:Demo.py:62 Humidity by API: 18
+INFO     test_one:Demo.py:63 Wind by API: 3.82
 INFO     test_one:Demo.py:64 --------------- Validation --------------------
 INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
 INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
@@ -300,49 +300,49 @@ ERROR    validation:HomePage.py:74 Wind does not match  but minimum difference i
 INFO     test_one:Demo.py:23 Search City: Chandigarh
 INFO     test_one:Demo.py:24 ----------Chandigarh----------
 INFO     test_one:Demo.py:31 -----------------------------------
-INFO     test_one:Demo.py:32 Temperature by Web: 32
-INFO     test_one:Demo.py:39 wind from web: 8.0
-INFO     test_one:Demo.py:40 Pressure from web: 1004.1
-INFO     test_one:Demo.py:41 Humidity from web: 36.0
+INFO     test_one:Demo.py:32 Temperature by Web: 31
+INFO     test_one:Demo.py:39 wind from web: 0.0
+INFO     test_one:Demo.py:40 Pressure from web: 1006.4
+INFO     test_one:Demo.py:41 Humidity from web: 49.0
 INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 32.19
-INFO     test_one:Demo.py:61 Pressure by API: 1003
+INFO     test_one:Demo.py:60 Temperature by API: 32.8
+INFO     test_one:Demo.py:61 Pressure by API: 1004
 INFO     test_one:Demo.py:62 Humidity by API: 24
-INFO     test_one:Demo.py:63 Wind by API: 3.75
+INFO     test_one:Demo.py:63 Wind by API: 4.19
 INFO     test_one:Demo.py:64 --------------- Validation --------------------
 INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
 INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
 ERROR    validation:HomePage.py:74 Humidity does not match  but minimum difference is more than 3
-ERROR    validation:HomePage.py:74 Wind does not match  but minimum difference is more than 3
+INFO     validation:HomePage.py:63 Wind does not match  but minimum difference is less than 3
 INFO     test_one:Demo.py:23 Search City: Indore
 INFO     test_one:Demo.py:24 ----------Indore----------
 INFO     test_one:Demo.py:31 -----------------------------------
 INFO     test_one:Demo.py:32 Temperature by Web: 34
-INFO     test_one:Demo.py:39 wind from web: 11.0
-INFO     test_one:Demo.py:40 Pressure from web: 1003.7
-INFO     test_one:Demo.py:41 Humidity from web: 14.0
+INFO     test_one:Demo.py:39 wind from web: 6.0
+INFO     test_one:Demo.py:40 Pressure from web: 1004.7
+INFO     test_one:Demo.py:41 Humidity from web: 23.0
 INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 35
-INFO     test_one:Demo.py:61 Pressure by API: 1007
-INFO     test_one:Demo.py:62 Humidity by API: 11
-INFO     test_one:Demo.py:63 Wind by API: 4.12
+INFO     test_one:Demo.py:60 Temperature by API: 36.56
+INFO     test_one:Demo.py:61 Pressure by API: 1004
+INFO     test_one:Demo.py:62 Humidity by API: 17
+INFO     test_one:Demo.py:63 Wind by API: 5.76
 INFO     test_one:Demo.py:64 --------------- Validation --------------------
 INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
 INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
-INFO     validation:HomePage.py:63 Humidity does not match  but minimum difference is less than 3
-ERROR    validation:HomePage.py:74 Wind does not match  but minimum difference is more than 3
+ERROR    validation:HomePage.py:74 Humidity does not match  but minimum difference is more than 3
+INFO     validation:HomePage.py:63 Wind does not match  but minimum difference is less than 3
 INFO     test_one:Demo.py:23 Search City: Mumbai
 INFO     test_one:Demo.py:24 ----------Mumbai----------
 INFO     test_one:Demo.py:31 -----------------------------------
 INFO     test_one:Demo.py:32 Temperature by Web: 31
-INFO     test_one:Demo.py:39 wind from web: 23.0
-INFO     test_one:Demo.py:40 Pressure from web: 1005.1
-INFO     test_one:Demo.py:41 Humidity from web: 74.0
+INFO     test_one:Demo.py:39 wind from web: 8.0
+INFO     test_one:Demo.py:40 Pressure from web: 1006.4
+INFO     test_one:Demo.py:41 Humidity from web: 76.0
 INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 31.52
-INFO     test_one:Demo.py:61 Pressure by API: 1005
+INFO     test_one:Demo.py:60 Temperature by API: 30.94
+INFO     test_one:Demo.py:61 Pressure by API: 1006
 INFO     test_one:Demo.py:62 Humidity by API: 74
-INFO     test_one:Demo.py:63 Wind by API: 6.17
+INFO     test_one:Demo.py:63 Wind by API: 4.63
 INFO     test_one:Demo.py:64 --------------- Validation --------------------
 INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
 INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
@@ -351,49 +351,49 @@ ERROR    validation:HomePage.py:74 Wind does not match  but minimum difference i
 INFO     test_one:Demo.py:23 Search City: Kolkata
 INFO     test_one:Demo.py:24 ----------Kolkata----------
 INFO     test_one:Demo.py:31 -----------------------------------
-INFO     test_one:Demo.py:32 Temperature by Web: 28
-INFO     test_one:Demo.py:39 wind from web: 23.0
-INFO     test_one:Demo.py:40 Pressure from web: 1008.1
-INFO     test_one:Demo.py:41 Humidity from web: 74.0
+INFO     test_one:Demo.py:32 Temperature by Web: 31
+INFO     test_one:Demo.py:39 wind from web: 3.0
+INFO     test_one:Demo.py:40 Pressure from web: 1007.1
+INFO     test_one:Demo.py:41 Humidity from web: 66.0
 INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 27.45
-INFO     test_one:Demo.py:61 Pressure by API: 1008
-INFO     test_one:Demo.py:62 Humidity by API: 78
-INFO     test_one:Demo.py:63 Wind by API: 6.17
+INFO     test_one:Demo.py:60 Temperature by API: 30.94
+INFO     test_one:Demo.py:61 Pressure by API: 1006
+INFO     test_one:Demo.py:62 Humidity by API: 53
+INFO     test_one:Demo.py:63 Wind by API: 7.13
+INFO     test_one:Demo.py:64 --------------- Validation --------------------
+INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
+INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
+ERROR    validation:HomePage.py:74 Humidity does not match  but minimum difference is more than 3
+INFO     validation:HomePage.py:63 Wind does not match  but minimum difference is less than 3
+INFO     test_one:Demo.py:23 Search City: New york
+INFO     test_one:Demo.py:24 ----------New york----------
+INFO     test_one:Demo.py:31 -----------------------------------
+INFO     test_one:Demo.py:32 Temperature by Web: 13
+INFO     test_one:Demo.py:39 wind from web: 10.0
+INFO     test_one:Demo.py:40 Pressure from web: 1014.9
+INFO     test_one:Demo.py:41 Humidity from web: 52.0
+INFO     test_one:Demo.py:42 -----------------------------------
+INFO     test_one:Demo.py:60 Temperature by API: 12.02
+INFO     test_one:Demo.py:61 Pressure by API: 1014
+INFO     test_one:Demo.py:62 Humidity by API: 59
+INFO     test_one:Demo.py:63 Wind by API: 0
 INFO     test_one:Demo.py:64 --------------- Validation --------------------
 INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
 INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
 INFO     validation:HomePage.py:63 Humidity does not match  but minimum difference is less than 3
 ERROR    validation:HomePage.py:74 Wind does not match  but minimum difference is more than 3
-INFO     test_one:Demo.py:23 Search City: New york
-INFO     test_one:Demo.py:24 ----------New york----------
-INFO     test_one:Demo.py:31 -----------------------------------
-INFO     test_one:Demo.py:32 Temperature by Web: 12
-INFO     test_one:Demo.py:39 wind from web: 6.0
-INFO     test_one:Demo.py:40 Pressure from web: 1006.4
-INFO     test_one:Demo.py:41 Humidity from web: 93.0
-INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 11.59
-INFO     test_one:Demo.py:61 Pressure by API: 1006
-INFO     test_one:Demo.py:62 Humidity by API: 94
-INFO     test_one:Demo.py:63 Wind by API: 4.63
-INFO     test_one:Demo.py:64 --------------- Validation --------------------
-INFO     validation:HomePage.py:63 Temperature does not match  but minimum difference is less than 3
-INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
-INFO     validation:HomePage.py:63 Humidity does not match  but minimum difference is less than 3
-INFO     validation:HomePage.py:63 Wind does not match  but minimum difference is less than 3
 INFO     test_one:Demo.py:23 Search City: Texas
 INFO     test_one:Demo.py:24 ----------Texas----------
 INFO     test_one:Demo.py:31 -----------------------------------
-INFO     test_one:Demo.py:32 Temperature by Web: 19
-INFO     test_one:Demo.py:39 wind from web: 27.0
-INFO     test_one:Demo.py:40 Pressure from web: 1018.0
+INFO     test_one:Demo.py:32 Temperature by Web: 21
+INFO     test_one:Demo.py:39 wind from web: 23.0
+INFO     test_one:Demo.py:40 Pressure from web: 1021.3
 INFO     test_one:Demo.py:41 Humidity from web: 75.0
 INFO     test_one:Demo.py:42 -----------------------------------
-INFO     test_one:Demo.py:60 Temperature by API: 14
-INFO     test_one:Demo.py:61 Pressure by API: 1022
-INFO     test_one:Demo.py:62 Humidity by API: 77
-INFO     test_one:Demo.py:63 Wind by API: 2.57
+INFO     test_one:Demo.py:60 Temperature by API: 9.48
+INFO     test_one:Demo.py:61 Pressure by API: 1024
+INFO     test_one:Demo.py:62 Humidity by API: 87
+INFO     test_one:Demo.py:63 Wind by API: 3.48
 INFO     test_one:Demo.py:64 --------------- Validation --------------------
 ERROR    validation:HomePage.py:74 Temperature does not match  but minimum difference is more than 3
 INFO     validation:HomePage.py:63 Pressure does not match  but minimum difference is less than 3
